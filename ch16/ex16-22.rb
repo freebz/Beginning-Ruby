@@ -1,0 +1,3 @@
+# ERB
+
+require 'erb'
